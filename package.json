@@ -31,3 +31,8 @@
     "vite": "^6.1.0"
   }
 }
+{
+  "overrides": {
+    "react-tilt": "0.1.4"
+  }
+}
