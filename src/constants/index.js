@@ -206,7 +206,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://hygge-ffjz.onrender.com/",
+    source_code_link: "https://movie-recommendation-navy-one.vercel.app/",
   },
   {
     name: "3D portfolio",
